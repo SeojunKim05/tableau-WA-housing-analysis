@@ -37,12 +37,12 @@ Each page features a **top title bar and navigation bar** to jump between views:
 ### HU 2023
 - **Filled Map**: Color gradient map of housing units per county in 2023  
 - **Highlights**: King County leads with the highest number of housing units  
-- **Color Legend**: Shows comparative intensity by county
+- **Color Legend**: Shows comparative intensity by county within the year
 
 ### HU 1990
 - **Bubble Chart**: Displays housing units per county in 1990  
 - **Slicer** (Filter): Allows selection of specific counties  
-- **Color Legend**: Shows comparative intensity by county
+- **Color Legend**: Shows comparative intensity by county within the year
 
 ### 2023 vs 1990
 - **Grouped Bar Chart**: Compares housing units in 1990 vs. 2023 for four major counties (King, Pierce, Snohomish, Spokane)  
