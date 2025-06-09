@@ -37,7 +37,7 @@ Each page features a **top title bar and navigation bar** to jump between views:
 ### HU 2023
 - **Filled Map**: Color gradient map of housing units per county in 2023  
 - **Highlights**: King County leads with the highest number of housing units  
-- **Legend**: Gradient scale for housing unit counts
+- **Color Legend**: Shows comparative intensity by county
 
 ### HU 1990
 - **Bubble Chart**: Displays housing units per county in 1990  
