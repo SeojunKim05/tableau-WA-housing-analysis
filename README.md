@@ -61,6 +61,20 @@ Each page features a **top title bar, insights, and navigation bar** to jump bet
 
 ---
 
+## 📌 Notes
+
+While a PowerPoint version (`WA Housing Trend Presentation.pptx`) is provided for static viewing, the full analytical experience is best accessed through the Tableau workbook (`WA Housing Trend.twb`).
+
+The `.twb` file contains **fully interactive dashboards**, allowing users to:
+- Hover over maps and charts to see detailed tooltips
+- Use slicers and filters to isolate specific counties or years
+- Navigate seamlessly between pages using the built-in progression bar
+- Dynamically compare housing trends across decades and jurisdictions
+
+For the most accurate insights and flexible exploration, open the `.twb` file directly in Tableau Desktop.
+
+---
+
 ## 🎯 Learning Goals
 
 - Develop multi-page dashboards in **Tableau** for exploratory and comparative analysis  
