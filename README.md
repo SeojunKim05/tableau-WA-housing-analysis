@@ -32,7 +32,7 @@ This project uses Tableau to analyze housing unit growth and distribution across
 
 ## 📊 Dashboard Overview
 
-Each page features a **top title bar and navigation bar** to jump between views: `HU 2023`, `HU 1990`, `2023 vs 1990`, `Jurisdiction`, and `Summary`.
+Each page features a **top title bar, insights, and navigation bar** to jump between views: `HU 2023`, `HU 1990`, `2023 vs 1990`, `Jurisdiction`, and `Summary`.
 
 ### HU 2023
 - **Filled Map**: Color gradient map of housing units per county in 2023  
