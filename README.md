@@ -34,22 +34,22 @@ This project uses Tableau to analyze housing unit growth and distribution across
 
 Each page features a **top title bar and navigation bar** to jump between views: `HU 2023`, `HU 1990`, `2023 vs 1990`, `Jurisdiction`, and `Summary`.
 
-### 🟩 HU 2023
+### HU 2023
 - **Filled Map**: Color gradient map of housing units per county in 2023  
 - **Highlights**: King County leads with the highest number of housing units  
 - **Legend**: Gradient scale for housing unit counts
 
-### 🟦 HU 1990
+### HU 1990
 - **Bubble Chart**: Displays housing units per county in 1990  
 - **Slicer** (Filter): Allows selection of specific counties  
 - **Color Legend**: Shows comparative intensity by county
 
-### 🟨 2023 vs 1990
+### 2023 vs 1990
 - **Grouped Bar Chart**: Compares housing units in 1990 vs. 2023 for four major counties (King, Pierce, Snohomish, Spokane)  
 - **Slicer**: Enables custom county selection  
 - **Color Legend**: Differentiates between years
 
-### 🟪 Jurisdiction
+### Jurisdiction
 - **Treemap**: Number of jurisdictions per county in 2023  
 - **Insight**: More jurisdictions tend to correlate with higher housing density  
 - **Legend**: Color scale by count of jurisdictions
