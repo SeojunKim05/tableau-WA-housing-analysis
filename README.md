@@ -26,7 +26,7 @@ This project uses Tableau to analyze housing unit growth and distribution across
   Tableau workbook containing the interactive dashboards and full visualization logic.
 
 - `WA Housing Trend Presentation.pptx`  
-  Static PowerPoint export of the dashboards, including titles, legends, and summary insights.
+  Static PowerPoint export of the dashboards.
 
 ---
 
