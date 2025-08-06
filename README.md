@@ -90,6 +90,6 @@ For the most accurate insights and flexible exploration, open the `.twb` file di
 
 Got feedback or want to collaborate?
 
-📬 [Open an issue](https://github.com/SeojunKim05/PracticeProjects/issues)  
+📬 [Open an issue](https://github.com/SeojunKim05/DataAnalysis-tableau-WA-housing-analysis/issues)  
 💼 [LinkedIn](https://www.linkedin.com/in/seojun-kim-089b7b339)  
 📫 Email: kseojun05@gmail.com
